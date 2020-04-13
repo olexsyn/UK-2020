@@ -72,32 +72,15 @@ _more, nebo, viter, zori_
 
 Отже, абетка української латиниці (**напівжирним** шрифтом позначені голосні літери):
 
-**A** B C D **E** F G H **I** J K L M N **O** P Q R S T **U** V W X **Y** Z
+<pre>
+<b>A</b>  B  C  D  <b>E</b>  F  G  H  <b>I</b>  J  K  L  M  N  <b>O</b>  P  Q  R  S  T  <b>U</b>  V  W  X  <b>Y</b>  Z  '
+</pre>
 
-| **A** | B | C | D | **E** | F G H **I** J K L M N **O** P Q R S T **U** V W X **Y** Z
-
-
-|  A  |     |     |     |  E  |     |     |     |  I  |     |     |     |     |     |  O  |     |     |     |     |     |  U  |     |     |     |  Y  |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     |  B  |  C  |  D  |     |  F  |  G  |  H  |     |  J  |  K  |  L  |  M  |  N  |     |  P  |  Q  |  R  |  S  |  T  |     |  V  |  W  |  X  |     |  Z  |
-
-
-|  A |    |    |    |  E |    |    |    |  I |    |    |    |    |    |  O |    |    |    |    |    |  U |    |    |    |  Y |    |
-| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-|    |  B |  C |  D |    |  F |  G |  H |    |  J |  K |  L |  M |  N |    |  P |  Q |  R |  S |  T |    |  V |  W |  X |    |  Z |
-
-| 1 | <small>2</small> | 3 |   | * |
-| - | - | - | - | - |
-| A | B | C | D | E |
 
 <table>
-<tr>
-<td><b>A</b></td><td>B</td><td>C</td><td>D</td><td><b>E</b></td><td>F</td><td>G</td><td>H</td><td><b>I</b></td><td>J</td>
-</tr>
-<tr>
-<td>K</td><td>L</td><td>M</td><td>N</td><td><b>O</b></td><td>P</td><td>Q</td><td>R</td><td>S</td><td>T</td>
-</tr>
-<tr>
-<td><b>U</b></td><td>V</td><td>W</td><td>X</td><td><b>Y</b></td><td>Z</td><td> </td><td> </td><td> </td><td> </td>
-</tr>
+<tr><td><b>A</b></td><td><i>B</i></td><td><i>C</i></td><td><i>D</i></td><td><b>E</b></td><td><i>F</i></td><td><i>G</i></td><td><i>H</i></td><td><b>I</b></td><td><i>J</i></td></tr>
+<tr><td colspan="10"></td></tr>
+<tr><td><i>K</i></td><td><i>L</i></td><td><i>M</i></td><td><i>N</i></td><td><b>O</b></td><td><i>P</i></td><td><i>Q</i></td><td><i>R</i></td><td><i>S</i></td><td><i>T</i></td></tr>
+<tr><td colspan="10"></td></tr>
+<tr><td><b>U</b></td><td><i>V</i></td><td><i>W</i></td><td><i>X</i></td><td><b>Y</b></td><td><i>Z</i></td><td><i>’</i></td><td><i> </i></td><td><i> </i></td><td><i> </i></td></tr>
 </table>
