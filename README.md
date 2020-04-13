@@ -1,8 +1,7 @@
-<a name="top"></a>
 UK-2020
-=========
-
-Ukraínský Latynský Pravopys
+=======
+<a name="top"></a>
+_Ukraínský Latynský Pravopys_
 
 Зміст
 -----
