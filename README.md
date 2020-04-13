@@ -1,5 +1,5 @@
 Ukraínský Latynský Pravopys
-===========================
+---------------------------
 
 <a name="top"></a>
 
@@ -9,7 +9,7 @@ Ukraínský Latynský Pravopys
 [Основна мета](#meta)  
 [Які проблеми має вирішити UK-2020?](#solve)  
 [Позначенння та погодження](#agreement)  
-[Особливості](#features)
+[Особливості](#features)  
 - [Абетка](#abetka)
   - [Літера X](#litera_X)
 
