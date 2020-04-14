@@ -18,8 +18,9 @@
 -------
 
 - This text contains <i>italic</i> text.  `<i></i>`
-- This text contains <var>var</var> text.  `<var></var>`
+- This text contai <var>italic</var> text.  `<var></var>`
 - This text contains <em>emphasized</em> text.  `<em></em>`
+- This text contains <var>var</var> text.  `<var></var>`
 - This text contains <b>bold</b> text.  `<b></b>`
 - This text contains <strong>strong</strong> text.  `<strong></strong>`
 - This text contains <code>code</code> text.  `<code></code>` аналог  \`\`
