@@ -9,9 +9,9 @@ Ukraínský Latynský Pravopys
 - [Що це?](#scho_ce)
 - [Які проблеми має вирішити UK-2020?](#yaki_problemy)
 - [Позначенння та погодження](#poznachennya)
-- [Особливості](#features)
+- [Особливості](#osoblyvosti)
   - [Абетка](#abetka)
-  - [Літери (звуки) з якими не виникає питаннь](#bez_problem)  
+  - [Звуки та літери до яких не виникає питаннь](#bez_problem)  
   (А, Е, І, О, У, Б, В, Д, Ф, К, М, Н, П, Р, С, Т, З)
   - [Шиплячі літери _**Ж**_, _**Ч**_, _**Ш**_](#lit_zh_ch_sh)
   - [Латинська літера **X**](#litera_X)
@@ -84,7 +84,7 @@ _more, nebo, viter, zori_
 
 ---
 
-<a name="features"></a>
+<a name="osoblyvosti"></a>
 
 Особливості
 -----------
@@ -100,11 +100,11 @@ _more, nebo, viter, zori_
 Отже, абетка української латиниці (**напівжирним** шрифтом позначені голосні літери):
 
 <table>
-<tr><td><b>A</b></td><td><i>B</i></td><td><i>C</i></td><td><i>D</i></td><td><b>E</b></td><td><i>F</i></td><td><i>G</i></td><td><i>H</i></td><td><b>I</b></td><td><i>J</i></td></tr>
+<tr><td><b>A</b></td><td><i>B</i></td><td><i>C</i></td><td><i>D</i></td><td><b>E</b></td><td><i>F</i></td><td><i>G</i></td><td><i>H</i></td><td><b>I</b></td></tr>
 <tr><td colspan="10"></td></tr>
-<tr><td><i>K</i></td><td><i>L</i></td><td><i>M</i></td><td><i>N</i></td><td><b>O</b></td><td><i>P</i></td><td><i>Q</i></td><td><i>R</i></td><td><i>S</i></td><td><i>T</i></td></tr>
+<tr><td><i>J</i></td><td><i>K</i></td><td><i>L</i></td><td><i>M</i></td><td><i>N</i></td><td><b>O</b></td><td><i>P</i></td><td><i>Q</i></td><td><i>R</i></td></tr>
 <tr><td colspan="10"></td></tr>
-<tr><td><b>U</b></td><td><i>V</i></td><td><i>W</i></td><td><i>X</i></td><td><b>Y</b></td><td><i>Z</i></td><td><i>’</i></td><td><i> </i></td><td><i> </i></td><td><i> </i></td></tr>
+<tr><td><i>S</i></td><td><i>T</i></td><td><b>U</b></td><td><i>V</i></td><td><i>W</i></td><td><i>X</i></td><td><b>Y</b></td><td><i>Z</i></td><td><i>’</i></td></tr>
 </table>
 
 [до змісту](#top)
@@ -113,7 +113,7 @@ _more, nebo, viter, zori_
 
 <a name="bez_problem"></a>
 
-### Літери з якими не виникає питаннь
+### Звуки та літери до яких не виникає питаннь
 
 Голосні звуки _**А**_, _**Е**_, _**І**_, _**О**_, _**У**_
 
