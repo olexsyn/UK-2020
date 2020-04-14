@@ -135,7 +135,7 @@ _more, nebo, viter, zori_
 
 `[ж]` - **ZH**: **zhovtok** (жовток), **pozhezha** (пожежа), **korzh** (корж)
 
-`[ч]` - **H**: **charka** (чарка), **korchma** (корчма), **oplich** (опліч)
+`[ч]` - **CH**: **charka** (чарка), **korchma** (корчма), **oplich** (опліч)
 
 `[ш]` - **SH**: **shmat** (шмат), **kishka** (кішка), **kulish** (куліш)
 
