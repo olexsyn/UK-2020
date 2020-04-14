@@ -11,7 +11,8 @@ Ukraínský Latynský Pravopys
 - [Позначенння та погодження](#agreement)
 - [Особливості](#features)
   - [Абетка](#abetka)
-  - [Літери з якими не виникає питаннь](#no_problem)
+  - [Літери з якими не виникає питаннь](#no_problem)  
+  A, E, I, O, U та B, D, F, K, M, N, P, R, S, T, V, Z
   - [Літера X](#litera_X)
 
 ---
