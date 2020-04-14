@@ -17,6 +17,22 @@
 Приклад
 -------
 
+<samp>sudo apt install apache2</samp>
+
+<code>
+<samp>sudo apt install apache2</samp>
+</code>
+
+`sudo apt install apache2`
+
+```
+sudo apt install apache2
+```
+<pre>
+<samp>sudo apt install apache2</samp>
+</pre>
+
+
 - This text contains <i>italic</i> text.  `<i></i>`
 - This text contains <var>italic</var> text.  `<var></var>`
 - This text contains <em>emphasized</em> text.  `<em></em>`
