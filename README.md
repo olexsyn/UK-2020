@@ -13,7 +13,7 @@ Ukraínský Latynský Pravopys
   - [Абетка](#abetka)
   - [Звуки та літери до яких не виникає питаннь](#bez_problem)  
   (А, Е, І, О, У, Б, В, Д, Ф, К, М, Н, П, Р, С, Т, З)
-  - [Шиплячі літери _**Ж**_, _**Ч**_, _**Ш**_](#lit_zh_ch_sh)
+  - [Шиплячі літери _**Ж**_, _**Ч**_, _**Ш**_](#zh_ch_sh)
   - [Латинська літера **X**](#litera_X)
 
 ---
@@ -70,7 +70,9 @@ _more, nebo, viter, zori_
 
 - Приклади машинописного тексту (SMS, Telegram, Viber тощо...):
 
-<code><samp>more, nebo, viter, zori</code></samp>
+<code><samp>more, nebo, viter, zori</samp></code>
+
+`more, nebo, viter, zori`
 
 - Приклади слів латинецею з перекладом на кирилицю у дужках:
 
@@ -125,7 +127,7 @@ _more, nebo, viter, zori_
 
 ---
 
-<a name="lit_zh_ch_sh"></a>
+<a name="zh_ch_sh"></a>
 
 ### Шиплячі літери Ж, Ч, Ш
 
