@@ -55,12 +55,12 @@ Ukraínský Latynský Pravopys
 
 * Щоби мати можливість розрізняти окремі кириличні та латинські літери, що мають однакове написання, домовимося виділяти:
 
-   - напівжирним похилим - кириличні літери, як то  _**А**_, _**Б**_, _**В**_, _**Г**_, _**Д**_...
-   - напівжирним прямим - латинські: **A**, **B**, **C**, **D**, **E**...
+   - напівжирним похилим - кириличні літери, як то <span class="text-blue">_**А**_</span>, <span class="text-blue">_**Б**_</span>, <span class="text-blue">_**В**_</span>, <span class="text-blue">_**Г**_</span>, <span class="text-blue">_**Д**_</span>...
+   - напівжирним прямим - латинські: <span class="text-red">**A**</span>, <span class="text-red">**B**</span>, <span class="text-red">**C**</span>, <span class="text-red">**D**</span>, <span class="text-red">**E**</span>...
 
 Наприклад:
 
-> Літера **X** не використовується безпосередньо для побудови українських слів...
+> Літера <span class="text-red">**X**</span> не використовується безпосередньо для побудови українських слів...
 
 Мається на увазі латинська літера "X".
 
@@ -102,11 +102,11 @@ _more, nebo, viter, zori_
 Отже, абетка української латиниці (**напівжирним** шрифтом позначені голосні літери):
 
 <table>
-<tr><td><b>A</b></td><td><i>B</i></td><td><i>C</i></td><td><i>D</i></td><td><b>E</b></td><td><i>F</i></td><td><i>G</i></td><td><i>H</i></td><td><b>I</b></td></tr>
+  <tr><td><b><span class="text-red">A</span></b></td><td><i>B</i></td><td><i>C</i></td><td><i>D</i></td><td><span class="text-red"><b>E</b></span></td><td><i>F</i></td><td><i>G</i></td><td><i>H</i></td><td><span class="text-red"><b>I</b><span></td></tr>
 <tr><td colspan="10"></td></tr>
-<tr><td><i>J</i></td><td><i>K</i></td><td><i>L</i></td><td><i>M</i></td><td><i>N</i></td><td><b>O</b></td><td><i>P</i></td><td><i>Q</i></td><td><i>R</i></td></tr>
+<tr><td><i>J</i></td><td><i>K</i></td><td><i>L</i></td><td><i>M</i></td><td><i>N</i></td><td><span class="text-red"><b>O</b></span></td><td><i>P</i></td><td><i>Q</i></td><td><i>R</i></td></tr>
 <tr><td colspan="10"></td></tr>
-<tr><td><i>S</i></td><td><i>T</i></td><td><b>U</b></td><td><i>V</i></td><td><i>W</i></td><td><i>X</i></td><td><b>Y</b></td><td><i>Z</i></td><td><i>’</i></td></tr>
+    <tr><td><i>S</i></td><td><i>T</i></td><td><span class="text-red"><b>U</b></span></td><td><i>V</i></td><td><i>W</i></td><td><i>X</i></td><td><span class="text-red"><b>Y</b></span></td><td><i>Z</i></td><td><i>’</i></td></tr>
 </table>
 
 [до змісту](#top)
