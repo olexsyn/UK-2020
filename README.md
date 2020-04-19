@@ -102,7 +102,7 @@ _more, nebo, viter, zori_
 Отже, абетка української латиниці (**напівжирним** шрифтом позначені голосні літери):
 
 <table>
-  <tr><td><b><span class="text-red">A</span></b></td><td><i>B</i></td><td><i>C</i></td><td><i>D</i></td><td><span class="text-red"><b>E</b></span></td><td><i>F</i></td><td><i>G</i></td><td><i>H</i></td><td><span class="text-red"><b>I</b><span></td></tr>
+  <tr><td><b><span class="text-red">A</span></b></td><td><i>B</i></td><td><i>C</i></td><td><i>D</i></td><td><span class="text-red"><b>E</b></span></td><td><i>F</i></td><td><i>G</i></td><td><i>H</i></td><td><span class="text-red"><b>I</b></span></td></tr>
 <tr><td colspan="10"></td></tr>
 <tr><td><i>J</i></td><td><i>K</i></td><td><i>L</i></td><td><i>M</i></td><td><i>N</i></td><td><span class="text-red"><b>O</b></span></td><td><i>P</i></td><td><i>Q</i></td><td><i>R</i></td></tr>
 <tr><td colspan="10"></td></tr>
