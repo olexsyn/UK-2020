@@ -1,0 +1,511 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"path",
+				"Path"
+			],
+			[
+				"fr",
+				"from"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"install",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/olex/dev/uk-2020"
+	],
+	"file_history":
+	[
+		"/home/olex/dev/uk2020/_includes/f.htm",
+		"/home/olex/dev/uk2020/content/prosti/README.md",
+		"/home/olex/dev/uk2020/content/osoblyvosti/README.md",
+		"/home/olex/dev/uk2020/content/poznachennya/README.md",
+		"/home/olex/dev/uk2020/content/problemy/README.md",
+		"/home/olex/dev/uk2020/content/scho/README.md",
+		"/home/olex/dev/uk2020/test/code.md",
+		"/home/olex/dev/uk2020/_layouts/default.html",
+		"/home/olex/dev/uk2020/css/github.css",
+		"/home/olex/dev/uk2020/_includes/footer.htm",
+		"/home/olex/dev/uk2020/README.md",
+		"/home/olex/dev/uk2020/poznachennya.md",
+		"/home/olex/dev/uk2020/scho.md",
+		"/home/olex/dev/uk2020/problemy.md",
+		"/home/olex/dev/uk2020/test/README.md",
+		"/home/olex/dev/uk2020/osoblyvosti.md",
+		"/home/olex/dev/uk2020/test/test2.md",
+		"/home/olex/dev/e-note/_layouts/default.html",
+		"/home/olex/dev/e-note/linux/command/ln/README.md",
+		"/home/olex/www/slavaswim.com/slavaswim.com/css/bootstrap_4_5_0.css",
+		"/home/olex/dev/e-note/_includes/footer.htm",
+		"/home/olex/dev/uk2020/_includes/breadcrumb.htm",
+		"/home/olex/dev/e-note/javascript/var_let_const/README.md",
+		"/home/olex/dev/e-note/security/letsencrypt/README.md",
+		"/home/olex/dev/e-note/python/library/jinja/README.md",
+		"/home/olex/dev/e-note/test/README.md",
+		"/home/olex/dev/e-note/apache/cgi-utf-fix/README.md",
+		"/home/olex/dev/e-note/_includes/a.htm",
+		"/home/olex/dev/uk2020/_includes/a.htm",
+		"/home/olex/dev/e-note/css/github.css",
+		"/home/olex/dev/uk2020/css/fonts/github.css",
+		"/home/olex/dev/uk2020/_includes/cl.htm",
+		"/home/olex/dev/e-note/linux/README.md",
+		"/home/olex/dev/e-note/linux/command/README.md",
+		"/home/olex/dev/e-note/linux/config/README.md",
+		"/home/olex/dev/e-note/linux/soft/README.md",
+		"/home/olex/dev/e-note/linux/other/README.md",
+		"/etc/fstab",
+		"/home/olex/dev/e-note/_includes/breadcrumb.htm",
+		"/home/olex/dev/e-note/README.md",
+		"/home/olex/dev/i/README.md",
+		"/home/olex/dev/e-note/i/README.md",
+		"/home/olex/dev/e-note/test/images_example.md",
+		"/home/olex/dev/e-note/_includes/constants.htm",
+		"/home/olex/video/CSS_Grid/info.txt",
+		"/home/olex/dev/e-note/linux/soft/contents.md",
+		"/home/olex/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+		"/home/olex/.config/sublime-text-3/Packages/User/Emmet.sublime-settings",
+		"/home/olex/dev/e-note/linux/config/contents.md",
+		"/home/olex/dev/hello_python/library/uuid/uuid4.py",
+		"/home/olex/img/_save/2020-05-06_penyok/info.txt",
+		"/home/olex/dev/e-note/linux/soft/rsync/README.md",
+		"/home/olex/dev/e-note/linux/config/fstab/README.md",
+		"/home/olex/dev/e-note/linux/config/fstab/article01.md",
+		"/home/olex/dev/e-note/linux/config/fstab/links.md",
+		"/home/olex/dev/e-note/linux/config/fstab/my_exp.md",
+		"/home/olex/dev/e-note/linux/config/fstab/options.md",
+		"/home/olex/dev/e-note/git/github/ssh/README.md",
+		"/home/olex/dev/e-note/git/github/ssh-agent/README.md",
+		"/home/olex/dev/e-note/git/github/pages/jekyll/my_breadcrumbs/README.md",
+		"/home/olex/dev/e-note/linux/soft/tar/README.md",
+		"/home/olex/dev/e-note/linux/soft/tar/rus_help/README.md",
+		"/home/olex/dev/e-note/linux/command/mkdir/README.md",
+		"/home/olex/dev/e-note/apache/README.md",
+		"/home/olex/dev/e-note/git/README.md",
+		"/home/olex/dev/e-note/__proj/ssh_setup.txt",
+		"/home/olex/dev/e-note/_includes/footer.html",
+		"/home/olex/dev/e-note/_includes/breadcrumb.html",
+		"/home/olex/down/calc.txt",
+		"/home/olex/dev/e-note/_includes/edit.html",
+		"/home/olex/dev/e-note/css/bootstrap/README.md",
+		"/home/olex/dev/e-note/css/README.md",
+		"/home/olex/dev/e-note/apache/ssi/README.md",
+		"/home/olex/dev/e-note/web-services/README.md",
+		"/home/olex/dev/e-note/python/README.md",
+		"/home/olex/dev/e-note/html/README.md",
+		"/home/olex/dev/e-note/html/symbols/README.md",
+		"/home/olex/dev/hello_python/library/subprocess.md",
+		"/home/olex/dev/hello_python/library/BeautifulSoup.md",
+		"/home/olex/soft/ans/copy2.py",
+		"/home/olex/dev/answiki/projects/swimming/db.md",
+		"/home/olex/www/ans.kiev.ua/ans.kiev.ua/wiki/lib/tpl/dokuwiki/css/basic.less",
+		"/home/olex/dev/cv/_layouts/default.html",
+		"/home/olex/dev/cv/README.md",
+		"/home/olex/dev/cv/css/github.css",
+		"/home/olex/dev/e-note/git/github/README.md",
+		"/home/olex/.config/sublime-text-3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/home/olex/.config/sublime-text-3/Packages/User/ColorPicker.sublime-settings",
+		"/home/olex/.config/sublime-text-3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/home/olex/dev/e-note/github.css",
+		"/home/olex/dev/e-note/mysql/README.md",
+		"/home/olex/dev/e-note/test2.md",
+		"/home/olex/dev/e-note/test3.md",
+		"/home/olex/dev/e-note/test.md",
+		"/home/olex/dev/e-note/git/github/pages_css/README.md",
+		"/home/olex/down/jekyll-now-master/_config.yml",
+		"/home/olex/www/bootstrap/pricing.htm",
+		"/home/olex/dev/technote/git/gfm.md",
+		"/home/olex/dev/technote/linux/soft/sublime-text.md",
+		"/home/olex/down/home.svg",
+		"/home/olex/dev/curriculum_vitae/README.md",
+		"/home/olex/dev/technote/_layouts/default.html",
+		"/home/olex/dev/technote/test3.md",
+		"/home/olex/dev/technote/my.css",
+		"/home/olex/dev/technote/_includes/meta.html",
+		"/home/olex/dev/technote/github.css",
+		"/home/olex/dev/e-note/git/github_icons.md",
+		"/home/olex/dev/technote/git/github.css",
+		"/home/olex/dev/technote/git/README.md",
+		"/home/olex/dev/technote/git/repo2server.md",
+		"/home/olex/dev/technote/README.md",
+		"/home/olex/www/ans.kiev.ua/wikidata/pages/apache/README.md",
+		"/home/olex/www/test.net/test.net/_inc/ssi02.ssi",
+		"/home/olex/www/test.net/test.net/_inc/ssi01.htm",
+		"/home/olex/www/__logs/test.net/access.log",
+		"/home/olex/www/__logs/test.net/error.log",
+		"/home/olex/www/test.net/test.net/test_ssi.htm",
+		"/home/olex/www/test.net/test.net/.htaccess",
+		"/home/olex/docs/apache2N/sites-available/test_net.conf",
+		"/etc/hosts",
+		"/etc/apache2/apache2.conf",
+		"/home/olex/www/test.net/test.net/_inc/ssi01.html",
+		"/home/olex/www/test.net/test.net/_ssi/ssi01.html",
+		"/home/olex/www/slavaswim.com/slavaswim.com/certifications/AWARDS_Shyrshov_Viacheslav.txt",
+		"/home/olex/docs/apache2/sites-available/default",
+		"/home/olex/docs/masha/tables.sql",
+		"/home/olex/docs/masha/data.sql",
+		"/home/olex/docs/masha/inform01.sql"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 109.0,
+		"where_history":
+		[
+			"/home/olex/dev/e-note,*.md",
+			"/home/olex/dev/e-note,README.md",
+			"/home/olex/dev/e-note/linux,README.md"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"**_",
+			"_**",
+			"text-blue",
+			"class=",
+			"text-red",
+			"text-gray",
+			"text-",
+			"font-weight",
+			"RobotoCondensed",
+			"container",
+			"{% include a.htm url=\"(.+?)\" %}",
+			"{% include a.htm url=\"(.+?)\" text=\"(.+?)\" %}",
+			"include a.htm",
+			"constants.htm",
+			"cmdsm.htm",
+			"cmdout.htm",
+			"cmd.htm",
+			"short=",
+			"href",
+			"include a.htm",
+			"ё",
+			"  ",
+			"{% include cmd",
+			"#### ",
+			"swim.org",
+			"  tar ",
+			"repname_",
+			"  ",
+			"cmdsm.htm",
+			"{% include cmdout.html comm=",
+			"{% include cmdlgout.html comm=",
+			"{% include cmdln.html comm=",
+			"breadcr",
+			"!important",
+			"border: ",
+			"href='http://swimming.kiev.ua",
+			"!important",
+			"markdown-body .highlight pre, .markdown-body pre",
+			"rgba(27, 31, 35",
+			"rgba(27, 31, 35, 0.05)",
+			"pre",
+			"table",
+			"code",
+			"h1",
+			"Oswald",
+			"Roboto Condensed",
+			"```mysql",
+			"## `",
+			"## DB simple",
+			".markdown-body",
+			"font-size:",
+			"markdown-body h1",
+			"\"Roboto Condensed\"",
+			"\"Open Sans\", ",
+			"font-size",
+			"<<",
+			"<<`",
+			"font-family:",
+			"\"Open Sans\"",
+			"font-family:",
+			"monospace",
+			"font-family:",
+			"h1",
+			"/fonts",
+			"body",
+			"font-size",
+			"*",
+			"h1",
+			"text-align: right",
+			"align-right",
+			"align-center",
+			"text-a",
+			" p ",
+			"lnk",
+			"![",
+			"[q]",
+			"[q']",
+			"[q]",
+			"font-size: ",
+			"font-size: 18px",
+			"font-size: 18px;",
+			".markdown-body",
+			"font-size:",
+			".png",
+			"(![?](/i/q.png)",
+			"### <a name=",
+			"Строки кода",
+			"Кодовые фрагменты строкCn",
+			"Кодовые фрагменты строк",
+			"h2",
+			"hr",
+			"/*",
+			".markdown-body hr",
+			"  ",
+			"text-red",
+			"swim.org.ua",
+			"</td><td>",
+			"(ms15",
+			"![15",
+			"### 15",
+			"sm1",
+			"(\\d\\d)\\.(\\d\\d)\\.(\\d\\d\\d\\d)",
+			"(\\d\\d\\).(\\d\\d\\).(\\d\\d\\d\\d)",
+			"|     ",
+			"---",
+			"</color>",
+			"<color red>",
+			"''",
+			"    ",
+			"img_dir",
+			"cur_dir",
+			"Path",
+			"exit",
+			"rmdir",
+			"mkdir",
+			"src_dircur_dir",
+			"src_dir",
+			"cur_dir",
+			"src_dir",
+			"home",
+			"```",
+			"rsync",
+			"\\srsync\\s",
+			"line",
+			"linee",
+			"open",
+			"dst",
+			"&gt;"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"</span>",
+			"<span class=\"c\">",
+			"c",
+			"l",
+			"gray",
+			"<$1>",
+			"[$2]($1)",
+			"е",
+			"\\t",
+			"/t",
+			"### ",
+			"site.org",
+			"    tar ",
+			"reponame_",
+			"\\t",
+			"{% include cmdout.htm cmd=",
+			"{% include cmdsm.htm cmd=",
+			"{% include cmd.htm cmd=",
+			"href=\"",
+			"```sql",
+			"/css/fonts",
+			"-",
+			" item ",
+			"arr_pages",
+			"\\t",
+			"text-blue",
+			"test.net",
+			" | ",
+			"(ms17",
+			"![17",
+			"### 17",
+			"ms1",
+			"$3-$2-$1",
+			"|    ",
+			"--",
+			"**",
+			"`",
+			"\\t",
+			"dbox_img_dir",
+			"user_home",
+			"`",
+			"**rsync**",
+			">",
+			"<",
+			"—",
+			"",
+			"### ",
+			"```",
+			"\\n```",
+			"",
+			"## ",
+			"##",
+			"**",
+			"",
+			"\\n",
+			"/home/olex/soft/doublecmd/ans_icons"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 287.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

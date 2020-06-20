@@ -6,4 +6,4 @@
 
 **fax** (факс), **ex-prezydent** (екс-президент), **Xerox** (Ксерокс), **Texas** (Техас), **Xavier** (Шав'єр)
 
-{% include f.htm f="content/litera_x/README.md" %}
+{% include f.htm f="content/litera_x" %}

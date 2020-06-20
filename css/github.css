@@ -4563,7 +4563,8 @@ a[href ^= "mailto"] {
 }
 .c {
 	color: #0366d6 !important;
-	font-weight: 600
+	font-weight: 600;
+	font-style: italic
 }
 .l {
 	color: #cb2431 !important;

@@ -32,4 +32,4 @@ _more, nebo, viter, zori_
 **jabluko** `[йаблуко]`, **atel'e** `[ательйе]`, **olivje** `[олів'йе]`, **ízhak** `[їжак]`
 
 
-{% include f.htm f="content/poznachennya/README.md" %}
+{% include f.htm f="content/poznachennya" %}
