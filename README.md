@@ -1,4 +1,4 @@
-Ukraínský Latynský Pravopys
+Ukraínsky Latynsky Pravopys
 ---------------------------
 
 <a name="top"></a>
