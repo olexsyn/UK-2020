@@ -2,6 +2,7 @@
 
 ## Ukraínsky Latynsky Pravopys
 
+<span class='info'>Увага!</span> Проект у розробці
 
 <a name="top"></a>
 
