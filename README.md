@@ -6,7 +6,21 @@
 
 <a name="top"></a>
 
-{% include_relative content/zmist/README.md %}
+## Зміст
+
+<nav>
+- [Що це?](#scho)
+- [Які проблеми має вирішити UK-2020?](#problemy)
+- [Позначенння та погодження](#poznachennya)
+- [Особливості](#osoblyvosti)
+  - [Абетка](#abetka)
+  - [Звуки та літери до яких не виникає питаннь](#bez_problem)
+  (А, Е, І, О, У, Б, В, Д, Ф, К, М, Н, П, Р, С, Т, З)
+  - [Шиплячі літери _**Ж**_, _**Ч**_, _**Ш**_](#zh_ch_sh)
+  - [Латинська літера **X**](#litera_X)
+</nav>
+
+---
 
 {% include_relative content/scho/README.md %}
 
