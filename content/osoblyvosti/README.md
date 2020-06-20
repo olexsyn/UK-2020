@@ -1,3 +1,5 @@
+<a name="osoblyvosti"></a>
+
 ## Особливості
 
 <a name="abetka"></a>
@@ -18,4 +20,4 @@
     <tr><td><i>S</i></td><td><i>T</i></td><td><span class="green"><b>U</b></span></td><td><i>V</i></td><td><i>W</i></td><td><i>X</i></td><td><span class="green"><b>Y</b></span></td><td><i>Z</i></td><td><i>’</i></td></tr>
 </table>
 
-{% include f.htm f="osoblyvosti.md" %}
+{% include f.htm f="content/osoblyvosti/README.md" %}

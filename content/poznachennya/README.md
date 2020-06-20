@@ -1,5 +1,6 @@
-## Позначенння та погодження
+<a name="poznachennya"></a>
 
+## Позначенння та погодження
 
 * Щоби мати можливість розрізняти окремі кириличні та латинські літери, що мають однакове написання, домовимося виділяти:
 
@@ -31,4 +32,4 @@ _more, nebo, viter, zori_
 **jabluko** `[йаблуко]`, **atel'e** `[ательйе]`, **olivje** `[олів'йе]`, **ízhak** `[їжак]`
 
 
-{% include f.htm f="poznachennya.md" %}
+{% include f.htm f="content/poznachennya/README.md" %}
