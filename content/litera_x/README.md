@@ -1,4 +1,4 @@
-<a name="litera_X"></a>
+<a name="litera_x"></a>
 
 ### Латинська літера Х
 
