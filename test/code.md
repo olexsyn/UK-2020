@@ -26,7 +26,7 @@ latynka2020:abetka
 
 ### Ще трохи про літеру Н
 
-З Н - <span class="c">Х – тепер теж, майже, все просто:
+З Н - <span class="c">Х</span> – тепер теж, майже, все просто:
 
 * латинські Н та KH – відтворють звук `[х]`;
 
@@ -36,7 +36,7 @@ latynka2020:abetka
 
 bezxmarný, bezxrebetný, sxybyty
 
-Коли перед <span class="c">Х стоїть <span class="c">С, <span class="c">З, обо <span class="c">Ц, (з якими ):
+Коли перед <span class="c">Х</span> стоїть <span class="c">С</span>, <span class="c">З</span>, обо <span class="c">Ц</span>, (з якими ):
 
 `[х]` - KH: **skhody** (сходи), **skhovanka** (схованка), **rozkhytaty** (розхитати), **Ickhak** (Іцхак)
 
@@ -906,11 +906,11 @@ milko, sopilka, golka, gorilka, dyatel, final
 
 ![pic]( :projects:gq.png |)
 
-І якщо G g вже позначає <span class="c">Г г</span>, то Q q буде позначати саме <span class="c">Ґ ґ. До того ж і назва у цієї латинської літери майже та - `ку` - схожа на тверду латинську `G`.
+І якщо G g вже позначає <span class="c">Г г</span>, то Q q буде позначати саме <span class="c">Ґ ґ</span>. До того ж і назва у цієї латинської літери майже та - `ку` - схожа на тверду латинську `G`.
 
-Я не бачу, кращого кандидата для заміни української <span class="c">Ґ ґ.
+Я не бачу, кращого кандидата для заміни української <span class="c">Ґ ґ</span>.
 
-|  17  |  Q q  |  <span class="c">Ґ ґ  |
+|  17  |  Q q  |  <span class="c">Ґ ґ</span>  |
 
 ```
   qrunt | qanok | qava | aqrus | qudzyk | qraty
@@ -920,7 +920,7 @@ milko, sopilka, golka, gorilka, dyatel, final
 
 Літера `X` [ікс] вживається у власних назвах та словах іншомовного походження:
 
-|  24  |  X x  |  <span class="c">кс  |
+|  24  |  X x  |  <span class="c">кс</span>  |
 
 **Oxana** (Оксана), **Olexandr** (Олександр)
 

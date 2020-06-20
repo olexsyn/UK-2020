@@ -12,11 +12,11 @@
 Отже, абетка української латиниці (<span class="l">червоним</span> кольором позначені голосні літери):
 
 <table>
-  <tr><td><b><span class="l">A</span></b></td><td><i>B</td><td><i>C</td><td><i>D</td><td><span class="l"><b>E</b></span></td><td><i>F</td><td><i>G</td><td><i>H</td><td><span class="l"><b>I</b></span></td></tr>
-<tr><td colspan="10"></td></tr>
-<tr><td><i>J</td><td><i>K</td><td><i>L</td><td><i>M</td><td><i>N</td><td><span class="l"><b>O</b></span></td><td><i>P</td><td><i>Q</td><td><i>R</td></tr>
-<tr><td colspan="10"></td></tr>
-    <tr><td><i>S</td><td><i>T</td><td><span class="l"><b>U</b></span></td><td><i>V</td><td><i>W</td><td><i>X</td><td><span class="l"><b>Y</b></span></td><td><i>Z</td><td><i>’</td></tr>
+  <tr><td><span class="l">A</span></td><td>B</td><td>C</td><td>D</td><td><span class="l">E</span></td><td>F</td><td>G</td><td>H</td><td><span class="l">I</span></td></tr>
+  <tr><td colspan="10"></td></tr>
+  <tr><td>J</td><td>K</td><td>L</td><td>M</td><td>N</td><td><span class="l">O</span></td><td>P</td><td>Q</td><td>R</td></tr>
+  <tr><td colspan="10"></td></tr>
+  <tr><td>S</td><td>T</td><td><span class="l">U</span></td><td>V</td><td>W</td><td>X</td><td><span class="l">Y</span></td><td>Z</td><td>’</td></tr>
 </table>
 
 
