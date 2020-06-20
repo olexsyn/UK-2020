@@ -48,5 +48,7 @@
 
 {% include_relative content/litera_w/README.md %}
 
+{% include_relative content/akut/README.md %}
+
 {% include_relative content/nagolos/README.md %}
 
