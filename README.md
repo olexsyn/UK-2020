@@ -18,21 +18,15 @@ Ukraínsky Latynsky Pravopys
 
 ---
 
+{% include_relative content/scho/README.md %}
 
-<a name="scho"></a>
-{% include_relative scho.md %}
+{% include_relative content/problemy/README.md %}
 
-<a name="problemy"></a>
-{% include_relative problemy.md %}
+{% include_relative content/poznachennya/README.md %}
 
-<a name="poznachennya"></a>
-{% include_relative poznachennya.md %}
+{% include_relative content/osoblyvosti/README.md %}
 
-<a name="osoblyvosti"></a>
-{% include_relative osoblyvosti.md %}
-
-<a name="bez_pytan"></a>
-{% include_relative index/bez_pytan/README.md %}
+{% include_relative content/prosti/README.md %}
 
 ---
 
