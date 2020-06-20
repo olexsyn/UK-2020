@@ -31,18 +31,8 @@ Ukraínsky Latynsky Pravopys
 <a name="osoblyvosti"></a>
 {% include_relative osoblyvosti.md %}
 
-
 <a name="bez_pytan"></a>
-
-### Звуки та літери до яких не виникає питаннь
-
-Голосні звуки _**А**_, _**Е**_, _**І**_, _**О**_, _**У**_
-
-Приголосні _**Б**_, _**Д**_, _**Ф**_, _**К**_, _**М**_, _**Н**_, _**П**_, _**Р**_, _**С**_, _**Т**_, _**В**_, _**З**_
-
-**abetka** (абетка), **atom** (атом), **bank** (банк), **viza** (віза), **kobzar** (кобзар), **narod** (народ), **sport** (спорт)
-
-[до змісту](#top)
+{% include_relative index/bez_pytan/README.md %}
 
 ---
 
