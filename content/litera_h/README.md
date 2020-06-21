@@ -1,4 +1,4 @@
-<a name="litera_h"></a>
+{% assign part = "litera_h" %}<a name="{{ part }}"></a>
 
 ### Латинська літера H
 
@@ -47,4 +47,4 @@ bezxmarný, bezxrebetný, sxybyty
 
 _rozkishny' / francuzka_
 
-{% include f.htm f="content/litera_h" %}
+{% include f.htm f=part %}

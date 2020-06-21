@@ -1,4 +1,4 @@
-<a name="litera_x"></a>
+{% assign part = "litera_x" %}<a name="{{ part }}"></a>
 
 ### Латинська літера Х
 
@@ -6,4 +6,4 @@
 
 **fax** (факс), **ex-prezydent** (екс-президент), **Xerox** (Ксерокс), **Texas** (Техас), **Xavier** (Шав'єр)
 
-{% include f.htm f="content/litera_x" %}
+{% include f.htm f=part %}

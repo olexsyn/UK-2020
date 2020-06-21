@@ -1,4 +1,4 @@
-<a name="prosti"></a>
+{% assign part = "prosti" %}<a name="{{ part }}"></a>
 
 ### Звуки та літери до яких не виникає питаннь
 
@@ -20,4 +20,4 @@
 теза текст тема тонус торба тропа узвар фаза фазан факс іподром
 
 
-{% include f.htm f="content/prosti" %}
+{% include f.htm f=part %}

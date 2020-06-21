@@ -1,4 +1,4 @@
-<a name="jot_golosn"></a>
+{% assign part = "jot_golosn" %}<a name="{{ part }}"></a>
 
 ## Йотування голосних в кінці слів
 
@@ -75,4 +75,4 @@ Slovakia, Slovenia, Serbia
 
 **Papuá Nova Gvinea** (Папуа Нова Гвінея) або `Papua’ Nova Gvinea`
 
-{% include f.htm f="content/jot_golosn" %}
+{% include f.htm f=part %}

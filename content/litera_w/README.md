@@ -1,4 +1,4 @@
-<a name="litera_w"></a>
+{% assign part = "litera_w" %}<a name="{{ part }}"></a>
 
 ### Латинська літера W
 
@@ -17,4 +17,4 @@ _wichlyvist’_ (ввічливість), _wedennya_ (введення), _wazhat
 **Wagner** (Вагнер), **Williams** (Вільямс), **Wrangler** (Ранглер), **Warshawa** (Варшава), **Wisla** (Вісла)
 
 
-{% include f.htm f="content/litera_w" %}
+{% include f.htm f=part %}

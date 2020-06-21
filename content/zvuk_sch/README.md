@@ -1,4 +1,4 @@
-<a name="zvuk_sch"></a>
+{% assign part = "zvuk_sch" %}<a name="{{ part }}"></a>
 
 ### Звук Щ
 
@@ -8,5 +8,4 @@
 
 <span class='ques'>?</span> Парасчина, підписчиця
 
-
-{% include f.htm f="content/zvuk_sch" %}
+{% include f.htm f=part %}

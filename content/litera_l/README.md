@@ -1,4 +1,4 @@
-<a name="litera_l"></a>
+{% assign part = "litera_l" %}<a name="{{ part }}"></a>
 
 ### Латинська літера L
 
@@ -103,4 +103,4 @@ vil'ha, L'viv, vil'na, koval'
 milko, sopilka, golka, gorilka, dyatel, final
 
 
-{% include f.htm f="content/litera_l" %}
+{% include f.htm f=part %}

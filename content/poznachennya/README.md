@@ -1,4 +1,4 @@
-<a name="poznachennya"></a>
+{% assign part = "poznachennya" %}<a name="{{ part }}"></a>
 
 ## Позначенння та погодження
 
@@ -32,4 +32,4 @@ _more, nebo, viter, zori_
 **jabluko** `[йаблуко]`, **atel'e** `[ательйе]`, **olivje** `[олів'йе]`, **ízhak** `[їжак]`
 
 
-{% include f.htm f="content/poznachennya" %}
+{% include f.htm f=part %}

@@ -1,4 +1,4 @@
-<a name="litera_c"></a>
+{% assign part = "litera_c" %}<a name="{{ part }}"></a>
 
 ### Латинська літера C
 
@@ -69,4 +69,4 @@ _cerkva, centr, bocman, karcer, koncentrat_
 
 
 
-{% include f.htm f="content/litera_c" %}
+{% include f.htm f=part %}

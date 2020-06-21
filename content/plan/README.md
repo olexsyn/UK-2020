@@ -1,4 +1,4 @@
-<a name="plan"></a>
+{% assign part = "plan" %}<a name="{{ part }}"></a>
 
 ## План викладу
 
@@ -31,4 +31,4 @@
 * голосні <span class="c">Я</span>, <span class="c">Ю</span>, <span class="c">Є</span>, <span class="c">Ї</span> за допомогою J, Y
   * початок слів, після голосних
 
-{% include f.htm f="content/plan" %}
+{% include f.htm f=part %}

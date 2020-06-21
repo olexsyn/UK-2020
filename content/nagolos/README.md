@@ -1,4 +1,4 @@
-<a name="nagolos"></a>
+{% assign part = "nagolos" %}<a name="{{ part }}"></a>
 
 ## Як позначатимемо наголос?
 
@@ -28,4 +28,4 @@ Combining Acute Accent
 HTML-код:`&#769;`
 ```
 
-{% include f.htm f="content/nagolos" %}
+{% include f.htm f=part %}

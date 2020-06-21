@@ -1,4 +1,4 @@
-<a name="zvuky_zh_ch_sh"></a>
+{% assign part = "zvuky_zh_ch_sh" %}<a name="{{ part }}"></a>
 
 ### Звуки Ж, Ч, Ш
 
@@ -12,4 +12,4 @@
 
 <span class='ques'>?</span> безхазяйність безхарактерність безхатченко безхмарність безхребетність розхитування розхлябаність розходження розхожість розхрестя
 
-{% include f.htm f="content/zvuky_zh_ch_sh" %}
+{% include f.htm f=part %}

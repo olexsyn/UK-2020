@@ -1,4 +1,4 @@
-<a name="akut"></a>
+{% assign part = "akut" %}<a name="{{ part }}"></a>
 
 ## Акут
 
@@ -79,4 +79,4 @@ molod’, magistral’, wichlyvist’
 
 vid’ma, pol’ský, bat’ko
 
-{% include f.htm f="content/akut" %}
+{% include f.htm f=part %}
