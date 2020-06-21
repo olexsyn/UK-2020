@@ -1,4 +1,5 @@
-<a name="zvuky_g_q"></a>
+{%- assign dir = "zvuky_g_q" -%}
+<a name="{{ dir }}"></a>
 
 ### Літери Г та Х
 
@@ -47,9 +48,18 @@ _programa, lihtar, snig, hlib, aqrus, spalah, qrunt_
 
 Тому, що як і кириличні <span class="c">г</span> та <span class="c">ґ</span>, латинські <span class="l">g</span> та q</span> схожі між собою, а в деяких шрифтах навіть, дуже:
 
-![pic]({{ site.baseurl }}{{ page.url }}gq.png)
+![pic]({{ site.baseurl }}/content/{{ dir }}gq.png)
 
-{{ page.dir }}
+`page.url` = {{ page.url }}  
+`page.path` = {{ page.path }}  
+`page.id` = {{ page.id }}  
+`page.dir` = {{ page.dir }}  
+`page.name` = {{ page.name }}  
+`page.categories` = {{ page.categories }}  
+`site.url` = {{ site.url }}  
+`site.baseurl` = {{ site.baseurl }}  
+`abs_path` = {{ abs_path }}  
+`my_var dir` = {{ dir }}  
 
 Крім того, літера <span class="l">Q</span> досі ні ким не застосовувалася <span class='ques'>?</span> в українській латинізації, тобто є вільною. А ще -- звук літери <span class="l">Q</span> майже схожий на звук <span class="c">Ґ</span> (дуже близький до `[к]`).
 
