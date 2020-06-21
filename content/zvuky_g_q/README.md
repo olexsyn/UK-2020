@@ -48,7 +48,7 @@ _programa, lihtar, snig, hlib, aqrus, spalah, qrunt_
 
 Тому, що як і кириличні <span class="c">г</span> та <span class="c">ґ</span>, латинські <span class="l">g</span> та q</span> схожі між собою, а в деяких шрифтах навіть, дуже:
 
-![pic]({{ site.baseurl }}/content/{{ dir }}gq.png)
+![pic]({{ site.baseurl }}/content/{{ dir }}/gq.png)
 
 `page.url` = {{ page.url }}  
 `page.path` = {{ page.path }}  
