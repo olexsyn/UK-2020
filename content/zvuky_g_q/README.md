@@ -1,5 +1,4 @@
-{%- assign dir = "zvuky_g_q" -%}
-<a name="{{ dir }}"></a>
+{% assign part = "zvuky_g_q" %}<a name="{{ part }}"></a>
 
 ### Літери Г та Х
 
@@ -50,16 +49,16 @@ _programa, lihtar, snig, hlib, aqrus, spalah, qrunt_
 
 ![pic]({{ site.baseurl }}/content/{{ dir }}/gq.png)
 
-`page.url` = {{ page.url }}  
-`page.path` = {{ page.path }}  
-`page.id` = {{ page.id }}  
-`page.dir` = {{ page.dir }}  
-`page.name` = {{ page.name }}  
-`page.categories` = {{ page.categories }}  
-`site.url` = {{ site.url }}  
-`site.baseurl` = {{ site.baseurl }}  
-`abs_path` = {{ abs_path }}  
-`my_var dir` = {{ dir }}  
+`page.url` = {{ page.url }}
+`page.path` = {{ page.path }}
+`page.id` = {{ page.id }}
+`page.dir` = {{ page.dir }}
+`page.name` = {{ page.name }}
+`page.categories` = {{ page.categories }}
+`site.url` = {{ site.url }}
+`site.baseurl` = {{ site.baseurl }}
+`abs_path` = {{ abs_path }}
+`my_var dir` = {{ dir }}
 
 Крім того, літера <span class="l">Q</span> досі ні ким не застосовувалася <span class='ques'>?</span> в українській латинізації, тобто є вільною. А ще -- звук літери <span class="l">Q</span> майже схожий на звук <span class="c">Ґ</span> (дуже близький до `[к]`).
 
@@ -107,8 +106,4 @@ _Zyqmund_ (Зиґмунд),
 гх - g'h
 ґх - ghh
 
-include f.htm f={{ dir }}
-
-{% include f.htm f=dir %}
-
-{% include f.htm f="content/zvuky_g_q" %}
+{% include f.htm f=part %}
