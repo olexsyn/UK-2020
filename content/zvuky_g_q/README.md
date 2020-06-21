@@ -47,7 +47,9 @@ _programa, lihtar, snig, hlib, aqrus, spalah, qrunt_
 
 Тому, що як і кириличні <span class="c">г</span> та <span class="c">ґ</span>, латинські <span class="l">g</span> та q</span> схожі між собою, а в деяких шрифтах навіть, дуже:
 
-![pic](gq.png)
+![pic]({{ site.baseurl }}{{ page.url }}gq.png)
+
+{{ page.dir }}
 
 Крім того, літера <span class="l">Q</span> досі ні ким не застосовувалася <span class='ques'>?</span> в українській латинізації, тобто є вільною. А ще -- звук літери <span class="l">Q</span> майже схожий на звук <span class="c">Ґ</span> (дуже близький до `[к]`).
 
