@@ -2,7 +2,7 @@
 
 ## Ukraínský Latynský Pravopys
 
-<span class='warn'>Увага!</span> Це - чорнетка! Проект у розробці.
+<span class='warn'>Увага! Чорнетка!</span> Проект у розробці.
 
 
 <a name="top"></a>
