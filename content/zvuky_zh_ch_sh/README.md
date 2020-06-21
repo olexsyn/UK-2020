@@ -2,7 +2,7 @@
 
 ### Звуки Ж, Ч, Ш
 
-Звуки Шиплячіх літер <span class='c'>Ж</span>, <span class='c'>Ч</span>, <span class='c'>Ш</span> відтворюються за допомогою пари латинських літер, друга серед яких – <span class='l'>H</span>:
+Звуки, що передають літери <span class='c'>Ж</span>, <span class='c'>Ч</span>, <span class='c'>Ш</span> відтворюються за допомогою сполучення дво латинських літер, друга серед яких -– <span class='l'>H</span>:
 
 `[ж]` - <span class="l">**ZH**</span>: **zhovtok** (жовток), **pozhezha** (пожежа), **korzh** (корж)
 
