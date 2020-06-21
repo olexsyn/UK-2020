@@ -17,12 +17,15 @@
 - [Звуки Ж, Ч, Ш](#zvuky_zh_ch_sh)
 - [Звуки Щ](#zvuk_sch)
 - [Звуки Г та Ґ](#zvuky_g_q)
+- [Латинська літера C](#litera_c)
+- [Латинська літера L](#litera_l)
+- [Латинська літера H](#litera_h)
 - [Латинська літера X](#litera_x)
 - [Латинська літера W](#litera_w)
+- [Латинська літера W](#litera_w)
 - [Акут](#akut)
+- [Йотування голосних в кінці слів](#jot_golosn)
 - [Наголос](#nagolos)
-
-
 
 ---
 
@@ -44,11 +47,21 @@
 
 {% include_relative content/zvuky_g_q/README.md %}
 
+{% include_relative content/litera_c/README.md %}
+
+{% include_relative content/litera_l/README.md %}
+
+{% include_relative content/litera_h/README.md %}
+
 {% include_relative content/litera_x/README.md %}
 
 {% include_relative content/litera_w/README.md %}
 
+{% include_relative content/jot_golosn/README.md %}
+
 {% include_relative content/akut/README.md %}
+
+{% include_relative content/jot_golosn/README.md %}
 
 {% include_relative content/nagolos/README.md %}
 
