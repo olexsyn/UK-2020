@@ -107,5 +107,8 @@ _Zyqmund_ (Зиґмунд),
 гх - g'h
 ґх - ghh
 
+include f.htm f={{ dir }}
+
+{% include f.htm f=dir %}
 
 {% include f.htm f="content/zvuky_g_q" %}
