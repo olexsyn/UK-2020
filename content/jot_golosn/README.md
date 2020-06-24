@@ -12,9 +12,9 @@
 
 **bje** (б'є), **pju** (п'ю)
 
-- після голосних <span class='l'>A</span>, <span class='l'>I</span>, <span class='l'</span>>O, <span class='l'>U</span>:
+- після голосних <span class='l'>A</span>, <span class='l'>I</span>, <span class='l'>O</span>, <span class='l'>U</span>:
 
-**palae** (палає), **nadia** (надія), **Hloa** (Хлоя), **mandruu** (мандрую)
+**palae** (палає), **nadia** (надія), **hvoa** (хвоя), **mandruu** (мандрую)
 
 
 <span class='info'>i</span> Як зазначає правило, останнє <span class='l'>O</span> не йотується:
