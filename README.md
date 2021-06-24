@@ -1,4 +1,4 @@
-# UK-2020
+# UK-2022
 
 ## Ukraínský Latynský Pravopys
 
