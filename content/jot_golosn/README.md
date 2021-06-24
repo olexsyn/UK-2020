@@ -57,7 +57,7 @@ Slovakia, Slovenia, Serbia
 
 Якщо необхідно підкреслити, що в даному випадку правило "Йотування голосної в кінці слова" не діє (таких випадків не багато, але вони є) -- позначаємо останню літеру акутом, або відокремлюємо апострофом:
 
-**kerue** (керує), але **Karlsrué** (Карлсруе) або **Karlsrue’**, `Karlsrue’` `Karlsrue'`
+**kerue** (керує), але **Karlsrué** (Карлсруе) або **Karlsru’e**, `Karlsru’e`
 
 каное, алое,
 
@@ -69,11 +69,11 @@ Slovakia, Slovenia, Serbia
 
 **moa** (моя), але **Samoá** (Самоа) або `Samo'a`
 
-**palau** (палаю), але **Tokelaú** (Токелау) або `Tokelau’`
+**palau** (палаю), але **Tokelaú** (Токелау) або `Tokela’u`
 
 І приклад "два в одному":
 
-**Papuá Nova Gvinea** (Папуа Нова Гвінея) або `Papua’ Nova Gvinea`
+**Papuá Nova Gvinea** (Папуа Нова Гвінея) або `Papu’a Nova Gvinea`
 
 --Podillya--
 
