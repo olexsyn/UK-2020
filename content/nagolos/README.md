@@ -29,3 +29,9 @@ HTML-код:`&#769;`
 ```
 
 {% include f.htm f=part %}
+
+## Посилання
+
+http://litopys.org.ua/pravopys/rozdil1.htm
+
+https://www.ulif.org.ua/system/files/pravopus-new.pdf
