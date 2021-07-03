@@ -32,6 +32,8 @@ HTML-код:`&#769;`
 
 ## Посилання
 
+https://uk.m.wikipedia.org/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%B0%D0%B1%D0%B5%D1%82%D0%BA%D0%B0
+
 http://litopys.org.ua/pravopys/rozdil1.htm
 
 https://www.ulif.org.ua/system/files/pravopus-new.pdf
