@@ -8,4 +8,6 @@
 
 <span class='ques'>?</span> Парасчина, підписчиця
 
+`[сч]` - <span class='l'>SĆH</span>: **Parasćhyna** (Парасчина), **pidpysćhycya** (підписчиця)
+
 {% include f.htm f=part %}
