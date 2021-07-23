@@ -20,6 +20,7 @@
 - [Латинська літера C](#litera_c)
 - [Латинська літера L](#litera_l)
 - [Латинська літера H](#litera_h)
+- [Латинська літера L](#litera_j)
 - [Латинська літера X](#litera_x)
 - [Латинська літера W](#litera_w)
 - [Латинська літера W](#litera_w)
@@ -52,6 +53,8 @@
 {% include_relative content/litera_l/README.md %}
 
 {% include_relative content/litera_h/README.md %}
+
+{% include_relative content/litera_j/README.md %}
 
 {% include_relative content/litera_x/README.md %}
 
