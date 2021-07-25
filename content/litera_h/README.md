@@ -1,4 +1,4 @@
-{% assign part = "litera_h" %}<a name="{{ part }}"></a>
+{% assign file = "litera_h" %}<a name="{{ file }}"></a>
 
 ### Латинська літера H
 
@@ -47,4 +47,4 @@ bezxmarný, bezxrebetný, sxybyty
 
 _rozkishny' / francuzka_
 
-{% include f.htm f=part %}
+{% include f.htm f=file %}
